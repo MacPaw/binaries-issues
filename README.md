@@ -3,7 +3,7 @@ Public issues list for [macosbin.com](https://macosbin.com) site
 
 ___
 
-[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Create%20Issue&color=3876D3)](https://twitter.com/MacPaw)
+[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Create%20Issue&color=3876D3)]([https://twitter.com/MacPaw](https://github.com/MacPaw/binaries-issues/issues/new))
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@MacPaw&color=CA1F67)](https://twitter.com/MacPaw)
 
 ## Description
@@ -23,7 +23,7 @@ We support and encourage crowdsourcing as the easiest way to collect and keep th
 
 ## How to contribute
 
-To add new binary entry to the database, create issue by filling-out the template. Once we verify the addition, it will be added to the database. 
+To add new binary entry to the database, [create](https://github.com/MacPaw/binaries-issues/issues/new) issue by filling-out the template. Once we verify the addition, it will be added to the database. 
 
 ## Roadmap
 
