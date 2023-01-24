@@ -21,7 +21,7 @@ The information is accessible with search.
 <img width="1082" alt="Search Results" src="https://user-images.githubusercontent.com/1411778/214270913-95a3994b-6ea5-4f49-8ff5-bcd4b29c63ac.png">
 <img width="1082" alt="Search Results" src="https://user-images.githubusercontent.com/1411778/214270898-0b0420f6-d2ca-4aca-91b2-624a69ff7876.png">
 
-We support and encourage crowdsourcing as the easiest way to collect and keep the data up to date and available publicitly. 
+We support and encourage crowdsourcing as the easiest way to collect and keep the data up to date and publicly available.
 
 ## How to contribute
 
