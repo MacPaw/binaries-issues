@@ -25,7 +25,7 @@ We support and encourage crowdsourcing as the easiest way to collect and keep th
 
 ## How to contribute
 
-To add new binary entry to the database, [create](https://github.com/MacPaw/binaries-issues/issues/new?assignees=&labels=&template=add-new-binary.md&title=Add+%22Binary+Name%22) issue by filling-out the template. Once we verify the addition, it will be added to the database. 
+To add a new binary entry to the database, [create](https://github.com/MacPaw/binaries-issues/issues/new?assignees=&labels=&template=add-new-binary.md&title=Add+%22Binary+Name%22) an issue by filling out the template. Once we verify your suggestion, it will be added to the database. 
 
 ## Roadmap
 
