@@ -27,6 +27,11 @@ We support and encourage crowdsourcing as the easiest way to collect and keep th
 
 To add new binary entry to the database, [create](https://github.com/MacPaw/binaries-issues/issues/new?assignees=&labels=&template=add-new-binary.md&title=Add+%22Binary+Name%22) issue by filling-out the template. Once we verify the addition, it will be added to the database. 
 
+<img width="1060" alt="Screenshot 2023-01-24 at 13 22 03" src="https://user-images.githubusercontent.com/1411778/214279430-4fe54b57-8d2f-4067-9305-9e39c42107a8.png">
+<img width="1060" alt="Screenshot 2023-01-24 at 13 22 28" src="https://user-images.githubusercontent.com/1411778/214279456-c6fa6557-2843-42d0-bceb-10a285e8a0a7.png">
+<img width="1060" alt="Screenshot 2023-01-24 at 13 22 53" src="https://user-images.githubusercontent.com/1411778/214279477-7317e5d1-7b02-476b-b302-3fdd72de2117.png">
+
+
 ## Roadmap
 
 * Add troubleshooting links
