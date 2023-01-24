@@ -3,7 +3,7 @@ Public issues list for [macosbin.com](https://macosbin.com) site
 
 ___
 
-[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Create%20Issue&color=3876D3)]([https://twitter.com/MacPaw](https://github.com/MacPaw/binaries-issues/issues/new))
+[![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Create%20Issue&color=3876D3)](https://github.com/MacPaw/binaries-issues/issues/new)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@MacPaw&color=CA1F67)](https://twitter.com/MacPaw)
 
 ## Description
