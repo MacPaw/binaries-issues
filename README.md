@@ -1,4 +1,4 @@
-# binaries-issues
+# macOS Binaries Issues
 Public issues list for [macosbin.com](https://macosbin.com) site
 
 <img width="554" alt="header_2" src="https://user-images.githubusercontent.com/1411778/214275183-abcc58eb-eba7-40c0-8577-575b6072ec63.png">
