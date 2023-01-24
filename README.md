@@ -1,6 +1,8 @@
 # binaries-issues
 Public issues list for [macosbin.com](https://macosbin.com) site
 
+<img width="554" alt="header_2" src="https://user-images.githubusercontent.com/1411778/214275183-abcc58eb-eba7-40c0-8577-575b6072ec63.png">
+
 ___
 
 [![Contribute](https://img.shields.io/static/v1?label=Contribute&message=Create%20Issue&color=3876D3)](https://github.com/MacPaw/binaries-issues/issues/new)
