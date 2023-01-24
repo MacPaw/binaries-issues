@@ -8,7 +8,11 @@ ___
 
 ## Description
 
-macOS Binaries - is the public collection and knowledge base for macOS system binaries, executables and frameworks. All the binaries are structured by its paths. Single entry contains: **overview**, **description** and **source**.
+macOS Binaries - is the public collection and knowledge base for macOS system binaries, executables and frameworks. 
+
+All the binaries are structured by its paths. 
+Single entry contains: **overview**, **description** and **source**.
+
 The information is accessible with search.
 
 <img width="1082" alt="Home Page" src="https://user-images.githubusercontent.com/1411778/214269502-e9a104d4-3206-413d-a418-3ebb0d8464a6.png">
